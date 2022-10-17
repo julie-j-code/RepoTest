@@ -1,0 +1,1 @@
+modifications avec erreurs pour lesquelles je vais me forcer à éviter le reset pour  privilégier le revert 
