@@ -1,2 +1,0 @@
-modifications 3 sans erreurs
-entre temps des erreurs ont été corrigées et j'ai fait un reset HEAD~2
